@@ -108,7 +108,7 @@ SqlPkg requires that you already have dotnet installed, which you can get at [ht
 
 Run the following command in your command line interface (e.g. cmd, PowerShell, Terminal, bash, etc.)
 
-```dotnet tool install --global argentini.sqlpkg```
+```dotnet tool install --global fynydd.sqlpkg```
 
 Note: this process will also install Microsoft SqlPackage.
 

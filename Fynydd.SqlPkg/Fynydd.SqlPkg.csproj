@@ -9,7 +9,7 @@
         <PackAsTool>true</PackAsTool>
         <ToolCommandName>sqlpkg</ToolCommandName>
         <PackageOutputPath>./nupkg</PackageOutputPath>
-        <PackageId>argentini.sqlpkg</PackageId>
+        <PackageId>fynydd.sqlpkg</PackageId>
         <AssemblyVersion>1.0.15.0</AssemblyVersion>
         <FileVersion>1.0.15.0</FileVersion>
         <PackageVersion>1.0.15</PackageVersion>
@@ -21,7 +21,7 @@
 
             Install dotnet 8 or later from https://dotnet.microsoft.com/en-us/download and then install SqlPkg with the command:
             
-            dotnet tool install --global argentini.sqlpkg
+            dotnet tool install --global fynydd.sqlpkg
         </Description>
         <Copyright>Copyright (c) Fynydd LLC 2023.</Copyright>
         <PackageProjectUrl>https://github.com/fynydd/Fynydd.SqlPkg</PackageProjectUrl>

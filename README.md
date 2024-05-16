@@ -110,7 +110,7 @@ SqlPkg requires that you already have the .NET 8.0 runtime installed, which you 
 
 Run the following command in your command line interface (e.g. cmd, PowerShell, Terminal, bash, etc.)
 
-```dotnet tool install --global argentini.sqlpkg```
+```dotnet tool install --global fynydd.sqlpkg```
 
 Note: this process will also install Microsoft SqlPackage.
 
@@ -118,7 +118,7 @@ Note: this process will also install Microsoft SqlPackage.
 
 Run the following command in your command line interface (e.g. cmd, PowerShell, Terminal, bash, etc.) to update to the latest version of SqlPkg:
 
-```dotnet tool update --global argentini.sqlpkg```
+```dotnet tool update --global fynydd.sqlpkg```
 
 ## Project Status
 

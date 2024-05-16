@@ -27,7 +27,7 @@ Changes that are cosmetic in nature and do not add anything substantial to the s
 
 #### **Do you want to contribute to the SqlPkg documentation?**
 
-SqlPkg is a volunteer effort. We encourage you to pitch in and join! Reach out to me at sqlpkg@argentini.us to offer your services.
+SqlPkg is a volunteer effort. We encourage you to pitch in and join! Reach out to me at michael.argentini@fynydd.com to offer your services.
 
 Thanks! :heart:
 
